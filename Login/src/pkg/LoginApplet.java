@@ -25,5 +25,5 @@ public class LoginApplet extends JApplet implements KeyListener, ActionListener
 	@Override
 	public void keyTyped (KeyEvent arg0)
 	{}
-
+ 
 }
